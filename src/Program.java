@@ -28,7 +28,7 @@ public class Program {
 		System.out.println(A.toString());
 		System.out.println(B.toString());
 		
-		//testando atualização commit
+		//testando atualização commit 2
 		
 		scan.close();
 	}
