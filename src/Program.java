@@ -28,6 +28,8 @@ public class Program {
 		System.out.println(A.toString());
 		System.out.println(B.toString());
 		
+		//testando atualização commit
+		
 		scan.close();
 	}
 
